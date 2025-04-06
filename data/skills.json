@@ -1,19 +1,5 @@
 [
-    {
-        "image": "html-css.jpg",
-        "title": "HTML - CSS",
-        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
-    },
-    {
-        "image": "js.jpg",
-        "title": "javascript",
-        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
-    },
-    {
-        "image": "react.jpg",
-        "title": "React",
-        "text": "Création d’applications React, création de composants et manipulation de leur état"
-    },
+   
     {
         "image": "gestion-de-projet.png",
         "title": "Gestion de projet",
@@ -27,6 +13,37 @@
     {
         "image": "test.png",
         "title": "Test",
-        "title ": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
+        "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
+    },
+    {
+        "image": "selenium.png",
+        "title": "Automatisation des tests web",
+        "text": "Création et exécution de tests fonctionnels et tests de régression, vérification de l'affichage et du bon fonctionnement des interfaces utilisateur, utilisation de Java, pour écrire des scripts Selenium. Interaction avec Chrome, Firefox, Edge et autres via Selenium WebDriver."
+    },
+    {
+        "image": "cypress.png",
+        "title": "Automatisation des tests end-to-end (E2E)",
+        "text": "Écriture de tests end-to-end (E2E), simulation complète du comportement d’un utilisateur dans un navigateur (clics, scrolls, saisies…), tests des API REST et vérification des réponses JSON, statut HTTP, en tête..., génération de rapports de test."
+    },
+    {
+        "image": "katalon.png",
+        "title": "katalon studio",
+        "text": "Automatisation multi-plateforme : web, mobile (Android/iOS), desktop, API REST/SOAP, enregistrement de scénarios avec le Web Recorder ou Mobile Recorder, génération automatique de rapports de test avec captures d’écran."
+    },
+    {
+        "image": "html-css.png",
+        "title": "HTML - CSS",
+        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
+    },
+    {
+        "image": "js.png",
+        "title": "javascript",
+        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
+    },
+    {
+        "image": "react.png",
+        "title": "React",
+        "text": "Création d’applications React, création de composants et manipulation de leur état"
     }
 ]
+
