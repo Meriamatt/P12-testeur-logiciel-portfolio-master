@@ -26,7 +26,7 @@
         "text": "Écriture de tests end-to-end (E2E), simulation complète du comportement d’un utilisateur dans un navigateur (clics, scrolls, saisies…), tests des API REST et vérification des réponses JSON, statut HTTP, en tête..., génération de rapports de test."
     },
     {
-        "image": "katalon.png",
+        "image": "Katalon.png",
         "title": "katalon studio",
         "text": "Automatisation multi-plateforme : web, mobile (Android/iOS), desktop, API REST/SOAP, enregistrement de scénarios avec le Web Recorder ou Mobile Recorder, génération automatique de rapports de test avec captures d’écran."
     },
