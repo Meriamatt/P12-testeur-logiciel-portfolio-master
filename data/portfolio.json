@@ -60,5 +60,62 @@
             }
         ],
         "link": "#"
+    },
+    {
+        "image": "image3.png",
+        "title": "Sophie Bluel",
+        "text": "Développement d’une interface web dynamique.",
+        "missions":[
+            {
+              "description": "Manipulation du DOM avec JavaScript vanille pour afficher dynamiquement les projets en fonction des interactions."
+            },
+            {
+              
+              "description": "Gestion des événements utilisateurs (clics, filtres, formulaires, drag & drop) pour créer une expérience fluide."
+            },
+            {
+             
+              "description": "Connexion à une API REST pour récupérer, ajouter ou supprimer des médias."
+            }
+        ],
+        "link": "#"
+    },
+    {
+        "image": "image3.png",
+        "title": "724Events",
+        "text": "test fonctionnel et exploratoire sur un site web en cours de développement ",
+        "missions":[
+            {
+              "description": "Exécution complète des tests fonctionnels selon le cahier de recettes fourni."
+            },
+            {
+              
+              "description": "Conduite de tests exploratoires pour simuler des comportements réels d’utilisateurs et déceler des anomalies non anticipées."
+            },
+            {
+             
+              "description": "Suivi des anomalies et reporting dans JIRA avec création de tickets de bug clairs, priorisés, illustrés et reproductibles."
+            }
+        ],
+        "link": "#"
+    },
+    {
+        "image": "image3.png",
+        "title": "La chouette agence",
+        "text": "Audit et optimisation SEO d’un site vitrine",
+        "missions":[
+            {
+              "description": "Réalisation d'une analyse SEO complète du site existant (code, contenu, accessibilité)."
+            },
+            {
+              
+              "description": "Amélioration du code source HTML/CSS selon les standards W3C."
+            },
+            {
+             
+              "description": "élaboration d'un rapport comparatif de performance"
+            }
+        ],
+        "link": "#"
     }
 ]

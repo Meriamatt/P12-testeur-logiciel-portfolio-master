@@ -212,6 +212,7 @@ display: flex;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
     text-align: center;
     padding: 20px;
+    /*height: 50vh;*/
 }
 
 .skill-item:hover {
