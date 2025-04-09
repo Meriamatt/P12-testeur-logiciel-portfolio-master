@@ -1,20 +1,64 @@
 [
+   
     {
-        "image": "image1.png",
-        "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
-    },
-    {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "image": "image3.png",
+        "title": "Tomsen",
+        "text": "préparer la mise en production d’une application critique en définissant une stratégie de test complète. ",
+        "missions":[
+            {
+              "description": "Analyse détaillée des spécifications fonctionnelles pour identifier les exigences critiques."
+            },
+            {
+              
+              "description": "Conception d’une stratégie de test globale : types de tests, outils, priorisation des cas de test."
+            },
+            {
+             
+              "description": "Planification des tests en mode Agile, alignée avec les sprints de développement."
+            },
+            {
+             
+                "description": "Planification des tests en mode Agile, alignée avec les sprints de développement."
+              }
+        ],
         "link": "#"
     },
     {
         "image": "image3.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "développement front-end d’une application web de location de logements, réalisé en React.",
+        "missions":[
+            {
+              "description": "Développement de composants React réutilisables"
+            },
+            {
+              
+              "description": "Intégration d’API."
+            },
+            {
+             
+              "description": "Responsive design et animations CSS"
+            }
+        ],
+        "link": "#"
+    },
+    {
+        "image": "image3.png",
+        "title": "Eco Bliss",
+        "text": "amélioration de la couverture des tests via l’automatisation des scénarios critiques du site web.",
+        "missions":[
+            {
+              "description": "Analyse d’une campagne de tests manuels pour identifier les zones critiques à automatiser."
+            },
+            {
+              
+              "description": "Rédaction de scripts automatisés en JavaScript avec Cypress, incluant les étapes d’interaction utilisateur, les assertions, et la validation de l’UI"
+            },
+            {
+             
+              "description": "Exécution des tests automatisés et rédaction d’un rapport détaillé de la campagne"
+            }
+        ],
         "link": "#"
     }
 ]
