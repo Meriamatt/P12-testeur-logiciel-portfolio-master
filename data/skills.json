@@ -1,47 +1,47 @@
 [
    
     {
-        "image": "gestion-de-projet.png",
+        "image": "gestion-de-projet.webp",
         "title": "Gestion de projet",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
     },
     {
-        "image": "optimisation-et-debug.png",
+        "image": "optimisation-et-debug.webp",
         "title": "Optimisation et debug",
         "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
     },
     {
-        "image": "test.png",
+        "image": "test.webp",
         "title": "Test",
         "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
     },
     {
-        "image": "selenium.png",
+        "image": "selenium.webp",
         "title": "Automatisation des tests web",
         "text": "Création et exécution de tests fonctionnels et tests de régression, vérification de l'affichage et du bon fonctionnement des interfaces utilisateur, utilisation de Java, pour écrire des scripts Selenium. Interaction avec Chrome, Firefox, Edge et autres via Selenium WebDriver."
     },
     {
-        "image": "cypress.png",
+        "image": "cypress.webp",
         "title": "Automatisation des tests end-to-end (E2E)",
         "text": "Écriture de tests end-to-end (E2E), simulation complète du comportement d’un utilisateur dans un navigateur (clics, scrolls, saisies…), tests des API REST et vérification des réponses JSON, statut HTTP, en tête..., génération de rapports de test."
     },
     {
-        "image": "image4.png",
+        "image": "image4.webp",
         "title": "katalon studio",
         "text": "Automatisation multi-plateforme : web, mobile (Android/iOS), desktop, API REST/SOAP, enregistrement de scénarios avec le Web Recorder ou Mobile Recorder, génération automatique de rapports de test avec captures d’écran."
     },
     {
-        "image": "html-css.png",
+        "image": "html-css.webp",
         "title": "HTML - CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
     },
     {
-        "image": "js.png",
+        "image": "js.webp",
         "title": "javascript",
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
     },
     {
-        "image": "react.png",
+        "image": "react.webp",
         "title": "React",
         "text": "Création d’applications React, création de composants et manipulation de leur état"
     }

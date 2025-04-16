@@ -71,7 +71,7 @@ display: flex;
 
 /* Hero Section */
 .bgimage {
-    background-image: url('images/banner.png');
+    background-image: url('images/banner.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -219,6 +219,9 @@ display: flex;
 }
 .card-img{
     margin-bottom: 15px;
+    max-height: 200px;
+    min-height: 200px;
+    object-fit: cover;
 }
 .card-title{
     color: rgb(75, 77, 79);

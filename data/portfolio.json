@@ -1,7 +1,7 @@
 [
    
     {
-        "image": "image3.png",
+        "image": "image3.webp",
         "title": "Tomsen",
         "text": "préparer la mise en production d’une application critique en définissant une stratégie de test complète. ",
         "missions":[
@@ -24,7 +24,7 @@
         "link": "#"
     },
     {
-        "image": "image3.png",
+        "image": "724-events.webp",
         "title": "724Events",
         "text": "test fonctionnel et exploratoire sur un site web en cours de développement ",
         "missions":[
@@ -43,7 +43,7 @@
         "link": "#"
     },
     {
-        "image": "image3.png",
+        "image": "eco-bliss.webp",
         "title": "Eco Bliss",
         "text": "amélioration de la couverture des tests via l’automatisation des scénarios critiques du site web.",
         "missions":[
@@ -62,7 +62,7 @@
         "link": "#"
     },
     {
-        "image": "image3.png",
+        "image": "kasa.webp",
         "title": "Kasa",
         "text": "développement front-end d’une application web de location de logements, réalisé en React.",
         "missions":[
@@ -81,7 +81,7 @@
         "link": "#"
     },
     {
-        "image": "image3.png",
+        "image": "sophie-bluel.webp",
         "title": "Sophie Bluel",
         "text": "Développement d’une interface web dynamique.",
         "missions":[
@@ -100,7 +100,7 @@
         "link": "#"
     },
     {
-        "image": "image3.png",
+        "image": "la-chouette-agence.webp",
         "title": "La chouette agence",
         "text": "Audit et optimisation SEO d’un site vitrine",
         "missions":[
