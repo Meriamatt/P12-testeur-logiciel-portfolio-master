@@ -25,19 +25,19 @@
     },
     {
         "image": "image3.png",
-        "title": "Kasa",
-        "text": "développement front-end d’une application web de location de logements, réalisé en React.",
+        "title": "724Events",
+        "text": "test fonctionnel et exploratoire sur un site web en cours de développement ",
         "missions":[
             {
-              "description": "Développement de composants React réutilisables"
+              "description": "Exécution complète des tests fonctionnels selon le cahier de recettes fourni."
             },
             {
               
-              "description": "Intégration d’API."
+              "description": "Conduite de tests exploratoires pour simuler des comportements réels d’utilisateurs et déceler des anomalies non anticipées."
             },
             {
              
-              "description": "Responsive design et animations CSS"
+              "description": "Suivi des anomalies et reporting dans JIRA avec création de tickets de bug clairs, priorisés, illustrés et reproductibles."
             }
         ],
         "link": "#"
@@ -63,6 +63,25 @@
     },
     {
         "image": "image3.png",
+        "title": "Kasa",
+        "text": "développement front-end d’une application web de location de logements, réalisé en React.",
+        "missions":[
+            {
+              "description": "Développement de composants React réutilisables"
+            },
+            {
+              
+              "description": "Intégration d’API."
+            },
+            {
+             
+              "description": "Responsive design et animations CSS"
+            }
+        ],
+        "link": "#"
+    },
+    {
+        "image": "image3.png",
         "title": "Sophie Bluel",
         "text": "Développement d’une interface web dynamique.",
         "missions":[
@@ -76,25 +95,6 @@
             {
              
               "description": "Connexion à une API REST pour récupérer, ajouter ou supprimer des médias."
-            }
-        ],
-        "link": "#"
-    },
-    {
-        "image": "image3.png",
-        "title": "724Events",
-        "text": "test fonctionnel et exploratoire sur un site web en cours de développement ",
-        "missions":[
-            {
-              "description": "Exécution complète des tests fonctionnels selon le cahier de recettes fourni."
-            },
-            {
-              
-              "description": "Conduite de tests exploratoires pour simuler des comportements réels d’utilisateurs et déceler des anomalies non anticipées."
-            },
-            {
-             
-              "description": "Suivi des anomalies et reporting dans JIRA avec création de tickets de bug clairs, priorisés, illustrés et reproductibles."
             }
         ],
         "link": "#"

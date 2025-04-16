@@ -73,21 +73,21 @@ function createPortfolioFromJSON() {
             data.forEach((item, index) => {
                 const card = document.createElement("div");
                 card.classList.add("col-lg-4", "mt-4");
-                let missionsList = "<ul>";
+                let missionsList = "";
                 item.missions.forEach(mission => {
                     missionsList += `<li>${mission.description}</li>`;
                 });
                 
                 card.innerHTML = `
                     <div class="card portfolioContent">
-                    <img class="card-img-top" src="images/${item.image}" style="width:100%">
+                    <img class="card-img card-img-top" src="images/${item.image}" style="width:100%">
                     <div class="card-body">
                         <h4 class="card-title">${item.title}</h4>
-                        <p class="card-text">${item.text}</p>
-                        <ul class= "mt-3">${missionsList}</ul>
+                        <p class="card-text card-description">${item.text}</p>
+                        <ul class= " custom-list mt-3">${missionsList}</ul>
                          
                         <div class="text-center">
-                            <a href="${item.link}" class="btn btn-success">Lien</a>
+                            <a href="${item.link}" class=" btn button-link">Lien</a>
                         </div>
                     </div>
                 </div>
