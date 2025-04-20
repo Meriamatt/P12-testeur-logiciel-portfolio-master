@@ -21,7 +21,7 @@
                 "description": "Planification des tests en mode Agile, alignée avec les sprints de développement."
               }
         ],
-        "link": "#"
+        "link": "docs/strategie-de-test.pdf"
     },
     {
         "image": "724-events.webp",
@@ -40,7 +40,7 @@
               "description": "Suivi des anomalies et reporting dans JIRA avec création de tickets de bug clairs, priorisés, illustrés et reproductibles."
             }
         ],
-        "link": "#"
+        "link": "docs/campagne-de-test.pdf"
     },
     {
         "image": "eco-bliss.webp",
@@ -59,7 +59,7 @@
               "description": "Exécution des tests automatisés et rédaction d’un rapport détaillé de la campagne"
             }
         ],
-        "link": "#"
+        "link": "https://github.com/Meriamatt/TesteurLogiciel_Automatisez_des_tests_pour_une_boutique_en_ligne-main"
     },
     {
         "image": "kasa.webp",
@@ -78,7 +78,7 @@
               "description": "Responsive design et animations CSS"
             }
         ],
-        "link": "#"
+        "link": "https://github.com/Meriamatt/TesteurLogiciel_appli_location_immobiliere_React-main"
     },
     {
         "image": "sophie-bluel.webp",
@@ -97,7 +97,7 @@
               "description": "Connexion à une API REST pour récupérer, ajouter ou supprimer des médias."
             }
         ],
-        "link": "#"
+        "link": "https://github.com/Meriamatt/Portfolio-architecte-sophie-bluel-master"
     },
     {
         "image": "la-chouette-agence.webp",
@@ -116,6 +116,6 @@
               "description": "élaboration d'un rapport comparatif de performance"
             }
         ],
-        "link": "#"
+        "link": "https://meriamatt.github.io/La-chouette-agance-Av-modif/"
     }
 ]

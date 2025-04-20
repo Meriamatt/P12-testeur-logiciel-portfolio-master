@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', inherit;
+    font-family: 'Poppins';
     transition: all 0.3s ease;
 }
 
